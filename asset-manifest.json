@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/.github.io/react_tabs-with-router/static/css/main.892a3e82.chunk.css",
-    "main.js": "/.github.io/react_tabs-with-router/static/js/main.fce28d86.chunk.js",
-    "main.js.map": "/.github.io/react_tabs-with-router/static/js/main.fce28d86.chunk.js.map",
-    "runtime~main.js": "/.github.io/react_tabs-with-router/static/js/runtime~main.986f02f5.js",
-    "runtime~main.js.map": "/.github.io/react_tabs-with-router/static/js/runtime~main.986f02f5.js.map",
-    "static/js/2.30ad687b.chunk.js": "/.github.io/react_tabs-with-router/static/js/2.30ad687b.chunk.js",
-    "static/js/2.30ad687b.chunk.js.map": "/.github.io/react_tabs-with-router/static/js/2.30ad687b.chunk.js.map",
-    "index.html": "/.github.io/react_tabs-with-router/index.html",
-    "precache-manifest.d815e58b270bbf087c8d68af2aea128d.js": "/.github.io/react_tabs-with-router/precache-manifest.d815e58b270bbf087c8d68af2aea128d.js",
-    "service-worker.js": "/.github.io/react_tabs-with-router/service-worker.js",
-    "static/css/main.892a3e82.chunk.css.map": "/.github.io/react_tabs-with-router/static/css/main.892a3e82.chunk.css.map"
+    "main.css": "/github.io/react_tabs-with-router/static/css/main.892a3e82.chunk.css",
+    "main.js": "/github.io/react_tabs-with-router/static/js/main.fce28d86.chunk.js",
+    "main.js.map": "/github.io/react_tabs-with-router/static/js/main.fce28d86.chunk.js.map",
+    "runtime~main.js": "/github.io/react_tabs-with-router/static/js/runtime~main.42ea0498.js",
+    "runtime~main.js.map": "/github.io/react_tabs-with-router/static/js/runtime~main.42ea0498.js.map",
+    "static/js/2.30ad687b.chunk.js": "/github.io/react_tabs-with-router/static/js/2.30ad687b.chunk.js",
+    "static/js/2.30ad687b.chunk.js.map": "/github.io/react_tabs-with-router/static/js/2.30ad687b.chunk.js.map",
+    "index.html": "/github.io/react_tabs-with-router/index.html",
+    "precache-manifest.917ae0393e1406ccb16846bc9b200448.js": "/github.io/react_tabs-with-router/precache-manifest.917ae0393e1406ccb16846bc9b200448.js",
+    "service-worker.js": "/github.io/react_tabs-with-router/service-worker.js",
+    "static/css/main.892a3e82.chunk.css.map": "/github.io/react_tabs-with-router/static/css/main.892a3e82.chunk.css.map"
   }
 }
